@@ -1,0 +1,13 @@
+dn: dc=springframework,dc=org
+objectClass: top
+objectClass: domain
+
+dn: uid=paul,dc=springframework,dc=org
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: chris paul
+sn: chris
+uid: paul
+userPassword: 123
